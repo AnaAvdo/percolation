@@ -1,2 +1,2 @@
 # percolation
-Realisation of percolation problem 
+Realization of percolation problem 
